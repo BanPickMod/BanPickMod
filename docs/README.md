@@ -53,3 +53,7 @@
 | 배포/운영 절차가 생길 때 | `Ops_ReleaseProcess.md` |
 
 새 문서를 추가할 때는 이 `README.md`의 문서 목록 테이블도 함께 업데이트합니다.
+
+## 추가 스펙
+
+- `Spec_BanPick_BanThenHiddenPick.md` : 기본 유닛 보호, 그룹 유닛 1회 밴 제한, 확장 유닛 비공개 픽 규칙을 정의한 상세 스펙.
