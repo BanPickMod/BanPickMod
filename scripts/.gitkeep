@@ -1,0 +1,7 @@
+# scripts/
+# 빌드/배포/검증 자동화 스크립트 폴더
+#
+# 예정 스크립트:
+#   build_release.ps1    - BPM_Release.zip 패키징
+#   verify_manifest.ps1  - 설치 파일 SHA256 검증
+#   run_local_test.ps1   - SC2Switcher로 테스트 맵 직접 실행

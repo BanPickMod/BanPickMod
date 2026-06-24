@@ -1,0 +1,11 @@
+# sc2-maps/
+# BPM 전용 섬멸전 맵 파일 폴더
+#
+# 각 맵은 BPM_Core.SC2Mod만을 의존성으로 가집니다.
+# 맵에는 지형/시작위치/자원배치/맵별 오브젝트/최소 초기화 트리거만 포함합니다.
+# 공통 밴픽 UI·로직·확장 유닛 데이터는 맵에 넣지 않습니다.
+#
+# 파일명 규칙: BPM_1v1_<MapName>.SC2Map
+#   예: BPM_1v1_TestMap.SC2Map
+#       BPM_1v1_Gresvan.SC2Map
+#       BPM_1v1_AncientCistern.SC2Map

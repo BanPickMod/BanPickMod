@@ -1,0 +1,26 @@
+# .gitignore — BanPickMod
+
+# 배포 결과물 (빌드 후 생성)
+release/*.zip
+release/*.json
+
+# 런처 빌드 결과물
+launcher/bin/
+launcher/obj/
+launcher/*.exe
+
+# OS 및 에디터 잡파일
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Python 가상환경 (런처를 Python으로 작성 시)
+launcher/.venv/
+launcher/__pycache__/
+
+# VSCode / Rider / Visual Studio
+.vscode/
+.idea/
+*.user
+*.suo

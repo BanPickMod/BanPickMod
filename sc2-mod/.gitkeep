@@ -1,0 +1,16 @@
+# sc2-mod/
+# BPM_Core.SC2Mod 소스 관리 폴더
+#
+# SC2 에디터에서 직접 편집하는 .SC2Mod 파일의 소스/스크립트를
+# 버전 관리 목적으로 여기에 보관합니다.
+#
+# 구조:
+#   Triggers/Init/         - 전역 변수 초기화, DB 로딩
+#   Triggers/BanPick/      - 밴픽 UI/라운드/후보 풀/HUD
+#   Triggers/Balance/      - 유닛 풀, 캠페인·스타1, 밸런스, 역할 그룹
+#   Triggers/Lobby/        - 대기실/옵션/옵저버/단계 흐름
+#   Triggers/Convenience/  - QoL 기능 (자원, 카메라, 핫키 등)
+#   Data/DB/               - UnitMeta, UpgradeMeta, ButtonMeta, MapPool
+#   Data/Units/            - 커스텀/캠페인/스타1 유닛 데이터
+#   Data/Upgrades/         - Ban Lock 업그레이드, 밸런스 업그레이드
+#   Data/UI/               - 레이아웃, 아이콘, 프레임 정의

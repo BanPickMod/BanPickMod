@@ -1,0 +1,13 @@
+# release/
+# 배포 패키지 빌드 결과물 폴더
+#
+# GitHub Release에 업로드할 ZIP 패키지가 여기에 생성됩니다.
+# 이 폴더의 파일은 .gitignore로 추적 제외 권장.
+#
+# 패키지 구조:
+#   BPM_Release.zip
+#   ├─ Mods/
+#   │  └─ BPM_Core.SC2Mod
+#   └─ Maps/
+#      └─ BanPickMode/
+#         └─ BPM_1v1_*.SC2Map
